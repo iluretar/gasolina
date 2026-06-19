@@ -81,7 +81,7 @@ jobs:
 
       - name: Place data.json
         working-directory: dashboard
-        run: cp ../../_data/dashboard/static/data.json static/data.json
+        run: cp ../_data/dashboard/static/data.json static/data.json
 
       - name: Build
         working-directory: dashboard
