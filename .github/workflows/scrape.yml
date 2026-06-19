@@ -35,6 +35,12 @@ jobs:
       - name: Run scraper
         run: npm run scrape
 
+      - name: Upload data.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-json
+          path: dashboard/static/data.json
+
       - name: Commit data.json
         run: |
           git config user.name "github-actions[bot]"
@@ -66,6 +72,16 @@ jobs:
       - name: Install
         working-directory: dashboard
         run: npm install
+
+      - name: Download data.json
+        uses: actions/download-artifact@v4
+        with:
+          name: data-json
+          path: ./_data
+
+      - name: Place data.json
+        working-directory: dashboard
+        run: cp ../../_data/dashboard/static/data.json static/data.json
 
       - name: Build
         working-directory: dashboard
