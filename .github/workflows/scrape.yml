@@ -81,7 +81,7 @@ jobs:
 
       - name: Place data.json
         working-directory: dashboard
-        run: cp ../_data/dashboard/static/data.json static/data.json
+        run: cp "$(find ../_data -name data.json -type f -print -quit)" static/data.json
 
       - name: Build
         working-directory: dashboard
