@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { onMount, onDestroy } from 'svelte';
+	import { onMount, onDestroy, untrack } from 'svelte';
 	import type { Station, Product } from '$lib/types';
 	import { stockLevel, type StockLevel } from '$lib/types';
 
@@ -100,7 +100,7 @@
 				.addTo(map);
 			markers.set(key, { marker, fillColor });
 		}
-		if (markers.size > 0 && !activeId) {
+		if (markers.size > 0 && !untrack(() => activeId)) {
 			const bounds = L.latLngBounds([...markers.values()].map((m) => m.marker.getLatLng()));
 			map.fitBounds(bounds, { padding: [40, 40], maxZoom: 14 });
 		}
