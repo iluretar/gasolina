@@ -36,7 +36,7 @@ jobs:
         run: npm run scrape
 
       - name: Upload data.json
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: data-json
           path: dashboard/static/data.json
@@ -74,7 +74,7 @@ jobs:
         run: npm install
 
       - name: Download data.json
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: data-json
           path: ./_data
