@@ -6,14 +6,35 @@
     "mapa": "https://maps.app.goo.gl/b4iSCGWjt3CcWLzA7",
     "lat": -17.75771,
     "lon": -63.1779,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:31 pm",
     "productos": {
       "especial_plus": {
-        "litros": 34309,
+        "litros": 33707,
         "cola": "Poca cola",
-        "autonomia": "11h 43m",
+        "autonomia": "11h 30m",
         "vehiculos": 1,
         "espera": "0m 30s x"
+      },
+      "premium_plus": null,
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
+    "nombre": "ARACATACA",
+    "direccion": "Montero - Victor Paz, Zona Norte, Urb. Turín",
+    "mapa": "https://maps.app.goo.gl/Hk8YmJpFnqi6A1vf6",
+    "lat": -17.3286488,
+    "lon": -63.2631651,
+    "actualizado": "29/06/26 7:31 pm",
+    "productos": {
+      "especial_plus": {
+        "litros": 30279,
+        "cola": "Mucha cola",
+        "autonomia": "13h 40m",
+        "vehiculos": 1,
+        "espera": "0m 34s x"
       },
       "premium_plus": null,
       "diesel_plus": null,
@@ -27,12 +48,12 @@
     "mapa": "https://maps.app.goo.gl/DfYa53RiQo7hHsFc9",
     "lat": -17.8071837,
     "lon": -63.1707663,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:32 pm",
     "productos": {
       "especial_plus": {
-        "litros": 24315,
+        "litros": 23625,
         "cola": "Hay cola",
-        "autonomia": "7h 3m",
+        "autonomia": "6h 51m",
         "vehiculos": 1,
         "espera": "0m 23s x"
       },
@@ -48,12 +69,12 @@
     "mapa": "https://maps.app.goo.gl/ou8qw6RotHvoH49S7",
     "lat": -17.7751704,
     "lon": -63.1652754,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:31 pm",
     "productos": {
       "especial_plus": {
-        "litros": 23094,
+        "litros": 22746,
         "cola": "Mucha cola",
-        "autonomia": "12h 18m",
+        "autonomia": "12h 7m",
         "vehiculos": 1,
         "espera": "0m 43s x"
       },
@@ -69,21 +90,21 @@
     "mapa": "https://maps.app.goo.gl/9xKZAfwDwqrQZ56ZA",
     "lat": -17.7772456,
     "lon": -63.1398681,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:31 pm",
     "productos": {
       "especial_plus": {
-        "litros": 21593,
+        "litros": 21070,
         "cola": "No hay cola",
-        "autonomia": "10h 50m",
+        "autonomia": "10h 34m",
         "vehiculos": 1,
         "espera": "0m 32s x"
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 2667,
+        "litros": 1441,
         "cola": "No hay cola",
-        "autonomia": "0h 47m",
-        "vehiculos": 6,
+        "autonomia": "0h 25m",
+        "vehiculos": 3,
         "espera": "7m 43s x"
       },
       "gas": null
@@ -96,13 +117,13 @@
     "mapa": "https://maps.app.goo.gl/uRdCwUejFdGQJeT28",
     "lat": -17.7605064,
     "lon": -63.1578325,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:31 pm",
     "productos": {
       "especial_plus": {
-        "litros": 18185,
+        "litros": 17811,
         "cola": "Mucha cola",
-        "autonomia": "10h 52m",
-        "vehiculos": 932,
+        "autonomia": "10h 39m",
+        "vehiculos": 913,
         "espera": "0m 42s x"
       },
       "premium_plus": null,
@@ -117,13 +138,13 @@
     "mapa": "https://maps.app.goo.gl/KirvSpJkLgaE1zMX6",
     "lat": -17.7901898,
     "lon": -63.1649153,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:31 pm",
     "productos": {
       "especial_plus": {
-        "litros": 15904,
+        "litros": 15367,
         "cola": "Hay cola",
-        "autonomia": "8h 5m",
-        "vehiculos": 661,
+        "autonomia": "7h 48m",
+        "vehiculos": 639,
         "espera": "0m 44s x"
       },
       "premium_plus": null,
@@ -138,13 +159,13 @@
     "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
     "lat": -17.8013326,
     "lon": -63.189474,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:32 pm",
     "productos": {
       "especial_plus": {
-        "litros": 10634,
+        "litros": 10124,
         "cola": "Hay cola",
-        "autonomia": "5h 53m",
-        "vehiculos": 481,
+        "autonomia": "5h 36m",
+        "vehiculos": 458,
         "espera": "0m 44s x"
       },
       "premium_plus": null,
@@ -159,13 +180,13 @@
     "mapa": "https://maps.app.goo.gl/jYUc1Cc4yKdLokw1A",
     "lat": -17.7928321,
     "lon": -63.1940059,
-    "actualizado": "29/06/26 7:01 pm",
+    "actualizado": "29/06/26 7:31 pm",
     "productos": {
       "especial_plus": {
-        "litros": 5793,
+        "litros": 5470,
         "cola": "Poca cola",
-        "autonomia": "4h 7m",
-        "vehiculos": 228,
+        "autonomia": "3h 53m",
+        "vehiculos": 215,
         "espera": "1m 5s x"
       },
       "premium_plus": null,
@@ -180,30 +201,15 @@
     "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
     "lat": -17.7775673,
     "lon": -63.2160147,
-    "actualizado": "29/06/26 7:02 pm",
+    "actualizado": "29/06/26 7:32 pm",
     "productos": {
       "especial_plus": {
-        "litros": 5632,
+        "litros": 5382,
         "cola": "Hay cola",
-        "autonomia": "4h 13m",
-        "vehiculos": 210,
+        "autonomia": "4h 1m",
+        "vehiculos": 201,
         "espera": "1m 12s x"
       },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
-    "nombre": "ARACATACA",
-    "direccion": "Montero - Victor Paz, Zona Norte, Urb. Turín",
-    "mapa": "https://maps.app.goo.gl/Hk8YmJpFnqi6A1vf6",
-    "lat": -17.3286488,
-    "lon": -63.2631651,
-    "actualizado": "29/06/26 7:01 pm",
-    "productos": {
-      "especial_plus": null,
       "premium_plus": null,
       "diesel_plus": null,
       "gas": null
@@ -216,7 +222,7 @@
     "mapa": "https://maps.app.goo.gl/tedob3DhWvF2CEaw6",
     "lat": -17.3194273,
     "lon": -63.2690567,
-    "actualizado": "29/06/26 7:02 pm",
+    "actualizado": "29/06/26 7:32 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -231,13 +237,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7696144134411,-63.1714895670315",
     "lat": -17.7696144134411,
     "lon": -63.1714895670315,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 15046,
+        "litros": 14365,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 376,
+        "vehiculos": 359,
         "espera": null
       },
       "premium_plus": null,
@@ -252,13 +258,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7699636842219,-63.1788997309299",
     "lat": -17.7699636842219,
     "lon": -63.1788997309299,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 32100,
+        "litros": 31522,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 803,
+        "vehiculos": 788,
         "espera": null
       },
       "premium_plus": null,
@@ -273,13 +279,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
     "lat": -17.8381666852393,
     "lon": -63.2410450833574,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 18828,
+        "litros": 18064,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 471,
+        "vehiculos": 452,
         "espera": null
       },
       "premium_plus": null,
@@ -294,21 +300,21 @@
     "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
     "lat": -18.7879016169379,
     "lon": -63.3144605479864,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 22469,
+        "litros": 22218,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 562,
+        "vehiculos": 555,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 3576,
+        "litros": 3158,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 14,
+        "vehiculos": 13,
         "espera": null
       },
       "gas": null
@@ -321,13 +327,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7826273983221,-63.1640577245945",
     "lat": -17.7826273983221,
     "lon": -63.1640577245945,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 15747,
+        "litros": 15032,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 394,
+        "vehiculos": 376,
         "espera": null
       },
       "premium_plus": null,
@@ -342,13 +348,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7549241451465,-63.1969690835236",
     "lat": -17.7549241451465,
     "lon": -63.1969690835236,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 13380,
+        "litros": 12334,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 335,
+        "vehiculos": 308,
         "espera": null
       },
       "premium_plus": null,
@@ -363,13 +369,13 @@
     "mapa": "https://www.google.com/maps?q=-17.762061428816,-63.1801367070617",
     "lat": -17.762061428816,
     "lon": -63.1801367070617,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 9472,
+        "litros": 9214,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 237,
+        "vehiculos": 230,
         "espera": null
       },
       "premium_plus": null,
@@ -384,13 +390,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7656804630669,-63.0709286743783",
     "lat": -17.7656804630669,
     "lon": -63.0709286743783,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 22860,
+        "litros": 22654,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 572,
+        "vehiculos": 566,
         "espera": null
       },
       "premium_plus": null,
@@ -405,13 +411,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7264348750435,-63.1658548617288",
     "lat": -17.7264348750435,
     "lon": -63.1658548617288,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 13855,
+        "litros": 13209,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 346,
+        "vehiculos": 330,
         "espera": null
       },
       "premium_plus": null,
@@ -426,13 +432,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7669638761581,-63.1109054559461",
     "lat": -17.7669638761581,
     "lon": -63.1109054559461,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 7060,
+        "litros": 6721,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 177,
+        "vehiculos": 168,
         "espera": null
       },
       "premium_plus": null,
@@ -447,13 +453,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7646159071105,-63.1506306544585",
     "lat": -17.7646159071105,
     "lon": -63.1506306544585,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 23555,
+        "litros": 23009,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 589,
+        "vehiculos": 575,
         "espera": null
       },
       "premium_plus": null,
@@ -468,13 +474,13 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 13807,
+        "litros": 13715,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 345,
+        "vehiculos": 343,
         "espera": null
       },
       "premium_plus": null,
@@ -489,13 +495,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7861644188831,-63.2048426862802",
     "lat": -17.7861644188831,
     "lon": -63.2048426862802,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 12175,
+        "litros": 11155,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 304,
+        "vehiculos": 279,
         "espera": null
       },
       "premium_plus": null,
@@ -510,13 +516,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8068386560544,-63.1980972093344",
     "lat": -17.8068386560544,
     "lon": -63.1980972093344,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 10290,
+        "litros": 9799,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 257,
+        "vehiculos": 245,
         "espera": null
       },
       "premium_plus": null,
@@ -531,13 +537,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8010365397699,-63.1812076934576",
     "lat": -17.8010365397699,
     "lon": -63.1812076934576,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 9612,
+        "litros": 8520,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 240,
+        "vehiculos": 213,
         "espera": null
       },
       "premium_plus": null,
@@ -552,13 +558,13 @@
     "mapa": "https://www.google.com/maps?q=-17.676109764678,-63.1591603277599",
     "lat": -17.676109764678,
     "lon": -63.1591603277599,
-    "actualizado": "2026-06-29 19:01",
+    "actualizado": "2026-06-29 19:31",
     "productos": {
       "especial_plus": {
-        "litros": 11961,
+        "litros": 11428,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 299,
+        "vehiculos": 286,
         "espera": null
       },
       "premium_plus": null,
