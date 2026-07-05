@@ -1,33 +1,12 @@
 [
   {
     "empresa": "GENEX",
-    "nombre": "VANGAS",
-    "direccion": "Av. Hernando Sanabria esq 4to anillo",
-    "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
-    "lat": -17.7775673,
-    "lon": -63.2160147,
-    "actualizado": "05/07/26 3:22 pm",
-    "productos": {
-      "especial_plus": {
-        "litros": 819,
-        "cola": "Hay cola",
-        "autonomia": "0h 36m",
-        "vehiculos": 30,
-        "espera": "1m 12s x"
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
     "nombre": "ARACATACA",
     "direccion": "Montero - Victor Paz, Zona Norte, Urb. Turín",
     "mapa": "https://maps.app.goo.gl/Hk8YmJpFnqi6A1vf6",
     "lat": -17.3286488,
     "lon": -63.2631651,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:41 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -48,7 +27,7 @@
     "mapa": "https://maps.app.goo.gl/9xKZAfwDwqrQZ56ZA",
     "lat": -17.7772456,
     "lon": -63.1398681,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:41 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -63,7 +42,7 @@
     "mapa": "https://maps.app.goo.gl/b4iSCGWjt3CcWLzA7",
     "lat": -17.75771,
     "lon": -63.1779,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:41 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -78,7 +57,7 @@
     "mapa": "https://maps.app.goo.gl/jYUc1Cc4yKdLokw1A",
     "lat": -17.7928321,
     "lon": -63.1940059,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:41 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -93,7 +72,7 @@
     "mapa": "https://maps.app.goo.gl/ou8qw6RotHvoH49S7",
     "lat": -17.7751704,
     "lon": -63.1652754,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:31 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -108,7 +87,7 @@
     "mapa": "https://maps.app.goo.gl/KirvSpJkLgaE1zMX6",
     "lat": -17.7901898,
     "lon": -63.1649153,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:32 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -123,7 +102,7 @@
     "mapa": "https://maps.app.goo.gl/uRdCwUejFdGQJeT28",
     "lat": -17.7605064,
     "lon": -63.1578325,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:32 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -138,7 +117,7 @@
     "mapa": "https://maps.app.goo.gl/DfYa53RiQo7hHsFc9",
     "lat": -17.8071837,
     "lon": -63.1707663,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:32 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -153,7 +132,7 @@
     "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
     "lat": -17.8013326,
     "lon": -63.189474,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:32 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -168,7 +147,7 @@
     "mapa": "https://maps.app.goo.gl/tedob3DhWvF2CEaw6",
     "lat": -17.3194273,
     "lon": -63.2690567,
-    "actualizado": "05/07/26 3:21 pm",
+    "actualizado": "05/07/26 5:32 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -177,21 +156,15 @@
     }
   },
   {
-    "empresa": "BIOPETROL",
-    "nombre": "BEREA",
-    "direccion": "DOBLE VIA LA GUARDIA KM 8",
-    "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
-    "lat": -17.8381666852393,
-    "lon": -63.2410450833574,
-    "actualizado": "2026-07-05 15:05",
+    "empresa": "GENEX",
+    "nombre": "VANGAS",
+    "direccion": "Av. Hernando Sanabria esq 4to anillo",
+    "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
+    "lat": -17.7775673,
+    "lon": -63.2160147,
+    "actualizado": "05/07/26 5:32 pm",
     "productos": {
-      "especial_plus": {
-        "litros": 221,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 6,
-        "espera": null
-      },
+      "especial_plus": null,
       "premium_plus": null,
       "diesel_plus": null,
       "gas": null
@@ -204,13 +177,13 @@
     "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
     "lat": -18.7879016169379,
     "lon": -63.3144605479864,
-    "actualizado": "2026-07-05 15:05",
+    "actualizado": "2026-07-05 17:31",
     "productos": {
       "especial_plus": {
-        "litros": 13971,
+        "litros": 11647,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 349,
+        "vehiculos": 291,
         "espera": null
       },
       "premium_plus": null,
@@ -225,13 +198,13 @@
     "mapa": "https://www.google.com/maps?q=-20.021236674057743,-63.531306466384734",
     "lat": -20.021236674057743,
     "lon": -63.531306466384734,
-    "actualizado": "2026-07-05 15:05",
+    "actualizado": "2026-07-05 17:31",
     "productos": {
       "especial_plus": {
-        "litros": 3800,
+        "litros": 2200,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 95,
+        "vehiculos": 55,
         "espera": null
       },
       "premium_plus": null,
@@ -246,13 +219,13 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-07-05 15:05",
+    "actualizado": "2026-07-05 17:31",
     "productos": {
       "especial_plus": {
-        "litros": 7152,
+        "litros": 5957,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 179,
+        "vehiculos": 149,
         "espera": null
       },
       "premium_plus": null,
@@ -273,7 +246,7 @@
     "mapa": "",
     "lat": null,
     "lon": null,
-    "actualizado": "2026-07-05 15:16",
+    "actualizado": "2026-07-05 17:31",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
