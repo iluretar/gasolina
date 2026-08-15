@@ -207,13 +207,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
     "lat": -17.8381666852393,
     "lon": -63.2410450833574,
-    "actualizado": "2026-08-15 11:16",
+    "actualizado": "2026-08-15 11:31",
     "productos": {
       "especial_plus": {
-        "litros": 684,
+        "litros": 251,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 17,
+        "vehiculos": 6,
         "espera": null
       },
       "premium_plus": null,
@@ -228,17 +228,38 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-08-15 11:16",
+    "actualizado": "2026-08-15 11:31",
     "productos": {
       "especial_plus": {
-        "litros": 13380,
+        "litros": 13342,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 335,
+        "vehiculos": 334,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "BIOPETROL",
+    "nombre": "CABEZAS",
+    "direccion": "CARRETERA A CAMIRI LOCALIDAD CABEZAS - AV. ELOY ALPIRE",
+    "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
+    "lat": -18.7879016169379,
+    "lon": -63.3144605479864,
+    "actualizado": "2026-08-15 11:31",
+    "productos": {
+      "especial_plus": null,
+      "premium_plus": null,
+      "diesel_plus": {
+        "litros": 19800,
+        "cola": null,
+        "autonomia": null,
+        "vehiculos": 79,
+        "espera": null
+      },
       "gas": null
     }
   }
