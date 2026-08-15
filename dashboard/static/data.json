@@ -207,34 +207,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
     "lat": -17.8381666852393,
     "lon": -63.2410450833574,
-    "actualizado": "2026-08-15 10:46",
+    "actualizado": "2026-08-15 11:16",
     "productos": {
       "especial_plus": {
-        "litros": 2035,
+        "litros": 684,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 51,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "LA TECA",
-    "direccion": "CARRETERA A COTOCA, ANTES DE LA TRANCA",
-    "mapa": "https://www.google.com/maps?q=-17.7656804630669,-63.0709286743783",
-    "lat": -17.7656804630669,
-    "lon": -63.0709286743783,
-    "actualizado": "2026-08-15 10:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 20,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 1,
+        "vehiculos": 17,
         "espera": null
       },
       "premium_plus": null,
@@ -249,23 +228,17 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-08-15 10:46",
+    "actualizado": "2026-08-15 11:16",
     "productos": {
       "especial_plus": {
-        "litros": 13590,
+        "litros": 13380,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 340,
+        "vehiculos": 335,
         "espera": null
       },
       "premium_plus": null,
-      "diesel_plus": {
-        "litros": 70,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 0,
-        "espera": null
-      },
+      "diesel_plus": null,
       "gas": null
     }
   }
