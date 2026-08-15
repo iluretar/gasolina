@@ -207,44 +207,17 @@
     "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
     "lat": -17.8381666852393,
     "lon": -63.2410450833574,
-    "actualizado": "2026-08-15 09:46",
+    "actualizado": "2026-08-15 10:16",
     "productos": {
       "especial_plus": {
-        "litros": 4241,
+        "litros": 3143,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 106,
+        "vehiculos": 79,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "CEDENO",
-    "direccion": "CAMIRI - AV HUMBERTO SUAREZ ROCA, ZONA LA WILLAMS",
-    "mapa": "https://www.google.com/maps?q=-20.021236674057743,-63.531306466384734",
-    "lat": -20.021236674057743,
-    "lon": -63.531306466384734,
-    "actualizado": "2026-08-15 09:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 9800,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 245,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 5100,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 20,
-        "espera": null
-      },
       "gas": null
     }
   },
@@ -255,13 +228,13 @@
     "mapa": "https://www.google.com/maps?q=-17.762061428816,-63.1801367070617",
     "lat": -17.762061428816,
     "lon": -63.1801367070617,
-    "actualizado": "2026-08-15 09:46",
+    "actualizado": "2026-08-15 10:16",
     "productos": {
       "especial_plus": {
-        "litros": 1532,
+        "litros": 390,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 38,
+        "vehiculos": 10,
         "espera": null
       },
       "premium_plus": null,
@@ -276,13 +249,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7656804630669,-63.0709286743783",
     "lat": -17.7656804630669,
     "lon": -63.0709286743783,
-    "actualizado": "2026-08-15 09:46",
+    "actualizado": "2026-08-15 10:16",
     "productos": {
       "especial_plus": {
-        "litros": 2165,
+        "litros": 1077,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 54,
+        "vehiculos": 27,
         "espera": null
       },
       "premium_plus": null,
@@ -297,13 +270,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7646159071105,-63.1506306544585",
     "lat": -17.7646159071105,
     "lon": -63.1506306544585,
-    "actualizado": "2026-08-15 09:46",
+    "actualizado": "2026-08-15 10:16",
     "productos": {
       "especial_plus": {
-        "litros": 1721,
+        "litros": 812,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 43,
+        "vehiculos": 20,
         "espera": null
       },
       "premium_plus": null,
@@ -318,44 +291,23 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-08-15 09:46",
+    "actualizado": "2026-08-15 10:16",
     "productos": {
       "especial_plus": {
-        "litros": 13835,
+        "litros": 13746,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 346,
+        "vehiculos": 344,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 2031,
+        "litros": 1074,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 8,
+        "vehiculos": 4,
         "espera": null
       },
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "PIRAI",
-    "direccion": "AV. ROCA Y CORONADO 3ER ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7861644188831,-63.2048426862802",
-    "lat": -17.7861644188831,
-    "lon": -63.2048426862802,
-    "actualizado": "2026-08-15 09:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 247,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 6,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
       "gas": null
     }
   }
