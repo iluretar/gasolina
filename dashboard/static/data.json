@@ -1,18 +1,60 @@
 [
   {
     "empresa": "GENEX",
+    "nombre": "GENEX GUARACACHI",
+    "direccion": "Av. Virgen de Cotoca entre 4to y 5to anillo",
+    "mapa": "https://maps.app.goo.gl/9xKZAfwDwqrQZ56ZA",
+    "lat": -17.7772456,
+    "lon": -63.1398681,
+    "actualizado": "15/08/26 3:54 pm",
+    "productos": {
+      "especial_plus": {
+        "litros": 19493,
+        "cola": "Mucha cola",
+        "autonomia": "9h 47m",
+        "vehiculos": 1,
+        "espera": "0m 32s x"
+      },
+      "premium_plus": null,
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
+    "nombre": "GENEX V",
+    "direccion": "2do anillo, esq. Escuadrón Velasco",
+    "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
+    "lat": -17.8013326,
+    "lon": -63.189474,
+    "actualizado": "15/08/26 3:56 pm",
+    "productos": {
+      "especial_plus": {
+        "litros": 19441,
+        "cola": "Hay cola",
+        "autonomia": "10h 45m",
+        "vehiculos": 880,
+        "espera": "0m 44s x"
+      },
+      "premium_plus": null,
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
     "nombre": "GENEX II",
     "direccion": "2do anillo, Av. 26 de febrero, esq. Charagua",
     "mapa": "https://maps.app.goo.gl/jYUc1Cc4yKdLokw1A",
     "lat": -17.7928321,
     "lon": -63.1940059,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:54 pm",
     "productos": {
       "especial_plus": {
-        "litros": 4648,
+        "litros": 3386,
         "cola": "No hay cola",
-        "autonomia": "3h 18m",
-        "vehiculos": 182,
+        "autonomia": "2h 24m",
+        "vehiculos": 133,
         "espera": "1m 5s x"
       },
       "premium_plus": null,
@@ -27,13 +69,13 @@
     "mapa": "https://maps.app.goo.gl/uRdCwUejFdGQJeT28",
     "lat": -17.7605064,
     "lon": -63.1578325,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:55 pm",
     "productos": {
       "especial_plus": {
-        "litros": 3573,
+        "litros": 1999,
         "cola": "Mucha cola",
-        "autonomia": "2h 8m",
-        "vehiculos": 183,
+        "autonomia": "1h 11m",
+        "vehiculos": 102,
         "espera": "0m 42s x"
       },
       "premium_plus": null,
@@ -48,32 +90,11 @@
     "mapa": "https://maps.app.goo.gl/Hk8YmJpFnqi6A1vf6",
     "lat": -17.3286488,
     "lon": -63.2631651,
-    "actualizado": "15/08/26 2:53 pm",
+    "actualizado": "15/08/26 3:54 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
       "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
-    "nombre": "GENEX GUARACACHI",
-    "direccion": "Av. Virgen de Cotoca entre 4to y 5to anillo",
-    "mapa": "https://maps.app.goo.gl/9xKZAfwDwqrQZ56ZA",
-    "lat": -17.7772456,
-    "lon": -63.1398681,
-    "actualizado": "15/08/26 2:54 pm",
-    "productos": {
-      "especial_plus": null,
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 2845,
-        "cola": "Mucha cola",
-        "autonomia": "0h 50m",
-        "vehiculos": 6,
-        "espera": "7m 43s x"
-      },
       "gas": null
     }
   },
@@ -84,7 +105,7 @@
     "mapa": "https://maps.app.goo.gl/b4iSCGWjt3CcWLzA7",
     "lat": -17.75771,
     "lon": -63.1779,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:44 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -99,7 +120,7 @@
     "mapa": "https://maps.app.goo.gl/ou8qw6RotHvoH49S7",
     "lat": -17.7751704,
     "lon": -63.1652754,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:55 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -114,7 +135,7 @@
     "mapa": "https://maps.app.goo.gl/KirvSpJkLgaE1zMX6",
     "lat": -17.7901898,
     "lon": -63.1649153,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:55 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -129,22 +150,7 @@
     "mapa": "https://maps.app.goo.gl/DfYa53RiQo7hHsFc9",
     "lat": -17.8071837,
     "lon": -63.1707663,
-    "actualizado": "15/08/26 2:54 pm",
-    "productos": {
-      "especial_plus": null,
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
-    "nombre": "GENEX V",
-    "direccion": "2do anillo, esq. Escuadrón Velasco",
-    "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
-    "lat": -17.8013326,
-    "lon": -63.189474,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:55 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -159,7 +165,7 @@
     "mapa": "https://maps.app.goo.gl/tedob3DhWvF2CEaw6",
     "lat": -17.3194273,
     "lon": -63.2690567,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:56 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -174,7 +180,7 @@
     "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
     "lat": -17.7775673,
     "lon": -63.2160147,
-    "actualizado": "15/08/26 2:54 pm",
+    "actualizado": "15/08/26 3:56 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -189,7 +195,7 @@
     "mapa": "https://www.google.com/maps?q=-20.021236674057743,-63.531306466384734",
     "lat": -20.021236674057743,
     "lon": -63.531306466384734,
-    "actualizado": "2026-08-15 15:01",
+    "actualizado": "2026-08-15 15:46",
     "productos": {
       "especial_plus": {
         "litros": 9700,
@@ -210,13 +216,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7656804630669,-63.0709286743783",
     "lat": -17.7656804630669,
     "lon": -63.0709286743783,
-    "actualizado": "2026-08-15 15:01",
+    "actualizado": "2026-08-15 15:46",
     "productos": {
       "especial_plus": {
-        "litros": 11148,
+        "litros": 9297,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 279,
+        "vehiculos": 232,
         "espera": null
       },
       "premium_plus": null,
@@ -231,13 +237,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7669638761581,-63.1109054559461",
     "lat": -17.7669638761581,
     "lon": -63.1109054559461,
-    "actualizado": "2026-08-15 15:01",
+    "actualizado": "2026-08-15 15:46",
     "productos": {
       "especial_plus": {
-        "litros": 13829,
+        "litros": 12343,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 346,
+        "vehiculos": 309,
         "espera": null
       },
       "premium_plus": null,
@@ -252,13 +258,13 @@
     "mapa": "https://www.google.com/maps?q=-17.3426156041482,-63.2696942367217",
     "lat": -17.3426156041482,
     "lon": -63.2696942367217,
-    "actualizado": "2026-08-15 15:01",
+    "actualizado": "2026-08-15 15:46",
     "productos": {
       "especial_plus": {
-        "litros": 14800,
+        "litros": 14699,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 370,
+        "vehiculos": 367,
         "espera": null
       },
       "premium_plus": null,
@@ -273,38 +279,17 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-08-15 15:01",
+    "actualizado": "2026-08-15 15:46",
     "productos": {
       "especial_plus": {
-        "litros": 11633,
+        "litros": 11468,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 291,
+        "vehiculos": 287,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "CABEZAS",
-    "direccion": "CARRETERA A CAMIRI LOCALIDAD CABEZAS - AV. ELOY ALPIRE",
-    "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
-    "lat": -18.7879016169379,
-    "lon": -63.3144605479864,
-    "actualizado": "2026-08-15 15:01",
-    "productos": {
-      "especial_plus": null,
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 2634,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 11,
-        "espera": null
-      },
       "gas": null
     }
   },
@@ -315,15 +300,15 @@
     "mapa": "https://www.google.com/maps?q=-17.676109764678,-63.1591603277599",
     "lat": -17.676109764678,
     "lon": -63.1591603277599,
-    "actualizado": "2026-08-15 15:01",
+    "actualizado": "2026-08-15 15:46",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 24632,
+        "litros": 19494,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 99,
+        "vehiculos": 78,
         "espera": null
       },
       "gas": null
