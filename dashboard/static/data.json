@@ -6,13 +6,13 @@
     "mapa": "https://maps.app.goo.gl/uRdCwUejFdGQJeT28",
     "lat": -17.7605064,
     "lon": -63.1578325,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": {
-        "litros": 17845,
+        "litros": 17074,
         "cola": "Mucha cola",
-        "autonomia": "10h 40m",
-        "vehiculos": 915,
+        "autonomia": "10h 12m",
+        "vehiculos": 875,
         "espera": "0m 42s x"
       },
       "premium_plus": null,
@@ -27,21 +27,21 @@
     "mapa": "https://maps.app.goo.gl/Hk8YmJpFnqi6A1vf6",
     "lat": -17.3286488,
     "lon": -63.2631651,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": {
-        "litros": 15203,
+        "litros": 14735,
         "cola": "Mucha cola",
-        "autonomia": "6h 52m",
-        "vehiculos": 727,
+        "autonomia": "6h 39m",
+        "vehiculos": 705,
         "espera": "0m 34s x"
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 9522,
+        "litros": 7992,
         "cola": "Mucha cola",
-        "autonomia": "0h 25m",
-        "vehiculos": 19,
+        "autonomia": "0h 21m",
+        "vehiculos": 16,
         "espera": "1m 19s x"
       },
       "gas": null
@@ -54,13 +54,13 @@
     "mapa": "https://maps.app.goo.gl/jYUc1Cc4yKdLokw1A",
     "lat": -17.7928321,
     "lon": -63.1940059,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": {
-        "litros": 14300,
+        "litros": 13888,
         "cola": "No hay cola",
-        "autonomia": "10h 9m",
-        "vehiculos": 562,
+        "autonomia": "9h 52m",
+        "vehiculos": 546,
         "espera": "1m 5s x"
       },
       "premium_plus": null,
@@ -75,13 +75,13 @@
     "mapa": "https://maps.app.goo.gl/ou8qw6RotHvoH49S7",
     "lat": -17.7751704,
     "lon": -63.1652754,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": {
-        "litros": 13563,
+        "litros": 12595,
         "cola": "Mucha cola",
-        "autonomia": "7h 13m",
-        "vehiculos": 605,
+        "autonomia": "6h 42m",
+        "vehiculos": 562,
         "espera": "0m 43s x"
       },
       "premium_plus": null,
@@ -96,7 +96,7 @@
     "mapa": "https://maps.app.goo.gl/9xKZAfwDwqrQZ56ZA",
     "lat": -17.7772456,
     "lon": -63.1398681,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -117,7 +117,7 @@
     "mapa": "https://maps.app.goo.gl/b4iSCGWjt3CcWLzA7",
     "lat": -17.75771,
     "lon": -63.1779,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -132,7 +132,7 @@
     "mapa": "https://maps.app.goo.gl/KirvSpJkLgaE1zMX6",
     "lat": -17.7901898,
     "lon": -63.1649153,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -147,7 +147,7 @@
     "mapa": "https://maps.app.goo.gl/DfYa53RiQo7hHsFc9",
     "lat": -17.8071837,
     "lon": -63.1707663,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -162,7 +162,7 @@
     "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
     "lat": -17.8013326,
     "lon": -63.189474,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -177,7 +177,7 @@
     "mapa": "https://maps.app.goo.gl/tedob3DhWvF2CEaw6",
     "lat": -17.3194273,
     "lon": -63.2690567,
-    "actualizado": "15/08/26 3:51 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -192,7 +192,7 @@
     "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
     "lat": -17.7775673,
     "lon": -63.2160147,
-    "actualizado": "15/08/26 3:52 am",
+    "actualizado": "15/08/26 4:21 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -207,13 +207,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
     "lat": -17.8381666852393,
     "lon": -63.2410450833574,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 15741,
+        "litros": 14599,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 394,
+        "vehiculos": 365,
         "espera": null
       },
       "premium_plus": null,
@@ -228,13 +228,13 @@
     "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
     "lat": -18.7879016169379,
     "lon": -63.3144605479864,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 3717,
+        "litros": 3595,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 93,
+        "vehiculos": 90,
         "espera": null
       },
       "premium_plus": null,
@@ -249,7 +249,7 @@
     "mapa": "https://www.google.com/maps?q=-20.021236674057743,-63.531306466384734",
     "lat": -20.021236674057743,
     "lon": -63.531306466384734,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
         "litros": 9800,
@@ -276,13 +276,13 @@
     "mapa": "https://www.google.com/maps?q=-17.762061428816,-63.1801367070617",
     "lat": -17.762061428816,
     "lon": -63.1801367070617,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 12820,
+        "litros": 11476,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 321,
+        "vehiculos": 287,
         "espera": null
       },
       "premium_plus": null,
@@ -297,44 +297,17 @@
     "mapa": "https://www.google.com/maps?q=-17.7656804630669,-63.0709286743783",
     "lat": -17.7656804630669,
     "lon": -63.0709286743783,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 13324,
+        "litros": 11968,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 333,
+        "vehiculos": 299,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "LOPEZ",
-    "direccion": "AV. BANZER, 7MO ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7264348750435,-63.1658548617288",
-    "lat": -17.7264348750435,
-    "lon": -63.1658548617288,
-    "actualizado": "2026-08-15 03:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 1068,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 27,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 7732,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 31,
-        "espera": null
-      },
       "gas": null
     }
   },
@@ -345,13 +318,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7646159071105,-63.1506306544585",
     "lat": -17.7646159071105,
     "lon": -63.1506306544585,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 12229,
+        "litros": 10999,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 306,
+        "vehiculos": 275,
         "espera": null
       },
       "premium_plus": null,
@@ -366,7 +339,7 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
         "litros": 15100,
@@ -393,13 +366,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7861644188831,-63.2048426862802",
     "lat": -17.7861644188831,
     "lon": -63.2048426862802,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 13662,
+        "litros": 12222,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 342,
+        "vehiculos": 306,
         "espera": null
       },
       "premium_plus": null,
@@ -414,13 +387,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8068386560544,-63.1980972093344",
     "lat": -17.8068386560544,
     "lon": -63.1980972093344,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 7938,
+        "litros": 7043,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 198,
+        "vehiculos": 176,
         "espera": null
       },
       "premium_plus": null,
@@ -435,13 +408,13 @@
     "mapa": "https://www.google.com/maps?q=-17.676109764678,-63.1591603277599",
     "lat": -17.676109764678,
     "lon": -63.1591603277599,
-    "actualizado": "2026-08-15 03:46",
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": {
-        "litros": 10175,
+        "litros": 7945,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 254,
+        "vehiculos": 199,
         "espera": null
       },
       "premium_plus": null,
@@ -451,41 +424,20 @@
   },
   {
     "empresa": "BIOPETROL",
-    "nombre": "MONTECRISTO",
-    "direccion": "AV. VIRGEN DE COTOCA 8VO ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7669638761581,-63.1109054559461",
-    "lat": -17.7669638761581,
-    "lon": -63.1109054559461,
-    "actualizado": "2026-08-15 03:46",
+    "nombre": "LOPEZ",
+    "direccion": "AV. BANZER, 7MO ANILLO",
+    "mapa": "https://www.google.com/maps?q=-17.7264348750435,-63.1658548617288",
+    "lat": -17.7264348750435,
+    "lon": -63.1658548617288,
+    "actualizado": "2026-08-15 04:31",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 734,
+        "litros": 4837,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 3,
-        "espera": null
-      },
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "MONTEVERDE",
-    "direccion": "LOCALIDAD MONTERO, AV. CIRCUNVALACIÓN",
-    "mapa": "https://www.google.com/maps?q=-17.3426156041482,-63.2696942367217",
-    "lat": -17.3426156041482,
-    "lon": -63.2696942367217,
-    "actualizado": "2026-08-15 03:46",
-    "productos": {
-      "especial_plus": null,
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 1830,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 7,
+        "vehiculos": 19,
         "espera": null
       },
       "gas": null
