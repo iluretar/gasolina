@@ -6,13 +6,13 @@
     "mapa": "https://maps.app.goo.gl/jYUc1Cc4yKdLokw1A",
     "lat": -17.7928321,
     "lon": -63.1940059,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": {
-        "litros": 14729,
+        "litros": 14113,
         "cola": "Hay cola",
-        "autonomia": "10h 28m",
-        "vehiculos": 579,
+        "autonomia": "10h 1m",
+        "vehiculos": 555,
         "espera": "1m 5s x"
       },
       "premium_plus": null,
@@ -27,13 +27,13 @@
     "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
     "lat": -17.8013326,
     "lon": -63.189474,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": {
-        "litros": 10667,
+        "litros": 9981,
         "cola": "Hay cola",
-        "autonomia": "5h 54m",
-        "vehiculos": 482,
+        "autonomia": "5h 31m",
+        "vehiculos": 451,
         "espera": "0m 44s x"
       },
       "premium_plus": null,
@@ -48,17 +48,44 @@
     "mapa": "https://maps.app.goo.gl/uRdCwUejFdGQJeT28",
     "lat": -17.7605064,
     "lon": -63.1578325,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": {
-        "litros": 10170,
+        "litros": 9315,
         "cola": "Mucha cola",
-        "autonomia": "6h 5m",
-        "vehiculos": 521,
+        "autonomia": "5h 34m",
+        "vehiculos": 477,
         "espera": "0m 42s x"
       },
       "premium_plus": null,
       "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
+    "nombre": "JARAJORECHI",
+    "direccion": "Montero - Av. Victor Paz, Zona Guabirá",
+    "mapa": "https://maps.app.goo.gl/tedob3DhWvF2CEaw6",
+    "lat": -17.3194273,
+    "lon": -63.2690567,
+    "actualizado": "21/08/26 2:34 pm",
+    "productos": {
+      "especial_plus": {
+        "litros": 5712,
+        "cola": "Mucha cola",
+        "autonomia": "3h 30m",
+        "vehiculos": 186,
+        "espera": "1m 8s x"
+      },
+      "premium_plus": null,
+      "diesel_plus": {
+        "litros": 18031,
+        "cola": "Mucha cola",
+        "autonomia": "9h 29m",
+        "vehiculos": 37,
+        "espera": "15m 8s x"
+      },
       "gas": null
     }
   },
@@ -69,13 +96,13 @@
     "mapa": "https://maps.app.goo.gl/9xKZAfwDwqrQZ56ZA",
     "lat": -17.7772456,
     "lon": -63.1398681,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": {
-        "litros": 6610,
+        "litros": 5567,
         "cola": "Mucha cola",
-        "autonomia": "3h 19m",
-        "vehiculos": 373,
+        "autonomia": "2h 47m",
+        "vehiculos": 314,
         "espera": "0m 32s x"
       },
       "premium_plus": null,
@@ -91,53 +118,26 @@
   },
   {
     "empresa": "GENEX",
-    "nombre": "JARAJORECHI",
-    "direccion": "Montero - Av. Victor Paz, Zona Guabirá",
-    "mapa": "https://maps.app.goo.gl/tedob3DhWvF2CEaw6",
-    "lat": -17.3194273,
-    "lon": -63.2690567,
-    "actualizado": "21/08/26 1:44 pm",
-    "productos": {
-      "especial_plus": {
-        "litros": 6080,
-        "cola": "Mucha cola",
-        "autonomia": "3h 44m",
-        "vehiculos": 198,
-        "espera": "1m 8s x"
-      },
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 19588,
-        "cola": "Mucha cola",
-        "autonomia": "10h 18m",
-        "vehiculos": 40,
-        "espera": "15m 8s x"
-      },
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
     "nombre": "VANGAS",
     "direccion": "Av. Hernando Sanabria esq 4to anillo",
     "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
     "lat": -17.7775673,
     "lon": -63.2160147,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": {
-        "litros": 4893,
+        "litros": 4396,
         "cola": "Mucha cola",
-        "autonomia": "3h 39m",
-        "vehiculos": 183,
+        "autonomia": "3h 17m",
+        "vehiculos": 164,
         "espera": "1m 12s x"
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 4743,
+        "litros": 3551,
         "cola": "Mucha cola",
-        "autonomia": "2h 37m",
-        "vehiculos": 10,
+        "autonomia": "1h 57m",
+        "vehiculos": 7,
         "espera": "15m 19s x"
       },
       "gas": null
@@ -150,13 +150,13 @@
     "mapa": "https://maps.app.goo.gl/ou8qw6RotHvoH49S7",
     "lat": -17.7751704,
     "lon": -63.1652754,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": {
-        "litros": 4080,
+        "litros": 3918,
         "cola": "Mucha cola",
-        "autonomia": "2h 10m",
-        "vehiculos": 182,
+        "autonomia": "2h 5m",
+        "vehiculos": 174,
         "espera": "0m 43s x"
       },
       "premium_plus": null,
@@ -171,13 +171,13 @@
     "mapa": "https://maps.app.goo.gl/DfYa53RiQo7hHsFc9",
     "lat": -17.8071837,
     "lon": -63.1707663,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": {
-        "litros": 3304,
+        "litros": 1999,
         "cola": "Hay cola",
-        "autonomia": "0h 57m",
-        "vehiculos": 150,
+        "autonomia": "0h 34m",
+        "vehiculos": 90,
         "espera": "0m 23s x"
       },
       "premium_plus": null,
@@ -192,7 +192,7 @@
     "mapa": "https://maps.app.goo.gl/Hk8YmJpFnqi6A1vf6",
     "lat": -17.3286488,
     "lon": -63.2631651,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -207,7 +207,7 @@
     "mapa": "https://maps.app.goo.gl/b4iSCGWjt3CcWLzA7",
     "lat": -17.75771,
     "lon": -63.1779,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -222,7 +222,7 @@
     "mapa": "https://maps.app.goo.gl/KirvSpJkLgaE1zMX6",
     "lat": -17.7901898,
     "lon": -63.1649153,
-    "actualizado": "21/08/26 1:44 pm",
+    "actualizado": "21/08/26 2:34 pm",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -237,34 +237,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7696144134411,-63.1714895670315",
     "lat": -17.7696144134411,
     "lon": -63.1714895670315,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
-        "litros": 1729,
+        "litros": 556,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 43,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "BENI",
-    "direccion": "AV. BENI, 2DO ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7699636842219,-63.1788997309299",
-    "lat": -17.7699636842219,
-    "lon": -63.1788997309299,
-    "actualizado": "2026-08-21 13:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 491,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 12,
+        "vehiculos": 14,
         "espera": null
       },
       "premium_plus": null,
@@ -279,13 +258,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
     "lat": -17.8381666852393,
     "lon": -63.2410450833574,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
-        "litros": 4573,
+        "litros": 3582,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 114,
+        "vehiculos": 90,
         "espera": null
       },
       "premium_plus": null,
@@ -306,13 +285,13 @@
     "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
     "lat": -18.7879016169379,
     "lon": -63.3144605479864,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
-        "litros": 12326,
+        "litros": 11881,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 308,
+        "vehiculos": 297,
         "espera": null
       },
       "premium_plus": null,
@@ -327,7 +306,7 @@
     "mapa": "https://www.google.com/maps?q=-20.021236674057743,-63.531306466384734",
     "lat": -20.021236674057743,
     "lon": -63.531306466384734,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
         "litros": 12800,
@@ -354,13 +333,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7549241451465,-63.1969690835236",
     "lat": -17.7549241451465,
     "lon": -63.1969690835236,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
-        "litros": 14113,
+        "litros": 11993,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 353,
+        "vehiculos": 300,
         "espera": null
       },
       "premium_plus": null,
@@ -375,13 +354,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7656804630669,-63.0709286743783",
     "lat": -17.7656804630669,
     "lon": -63.0709286743783,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
-        "litros": 5113,
+        "litros": 3844,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 128,
+        "vehiculos": 96,
         "espera": null
       },
       "premium_plus": null,
@@ -396,7 +375,7 @@
     "mapa": "",
     "lat": null,
     "lon": null,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
         "litros": 532,
@@ -418,47 +397,26 @@
   },
   {
     "empresa": "BIOPETROL",
-    "nombre": "PARAGUA",
-    "direccion": "AV. PARAGUA, 4TO ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7646159071105,-63.1506306544585",
-    "lat": -17.7646159071105,
-    "lon": -63.1506306544585,
-    "actualizado": "2026-08-21 13:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 356,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 9,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
     "nombre": "PARAPETI",
     "direccion": "CAMIRI CARRETERA YACUIBA-SANTA CRUZ KM1 ZONA BARRIO LA WILLAMS",
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
-        "litros": 24222,
+        "litros": 23898,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 606,
+        "vehiculos": 597,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 11570,
+        "litros": 9669,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 46,
+        "vehiculos": 39,
         "espera": null
       },
       "gas": null
@@ -471,7 +429,7 @@
     "mapa": "https://www.google.com/maps?q=-17.7861644188831,-63.2048426862802",
     "lat": -17.7861644188831,
     "lon": -63.2048426862802,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
         "litros": 42,
@@ -492,13 +450,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8068386560544,-63.1980972093344",
     "lat": -17.8068386560544,
     "lon": -63.1980972093344,
-    "actualizado": "2026-08-21 13:46",
+    "actualizado": "2026-08-21 14:31",
     "productos": {
       "especial_plus": {
-        "litros": 5659,
+        "litros": 4466,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 141,
+        "vehiculos": 112,
         "espera": null
       },
       "premium_plus": null,
