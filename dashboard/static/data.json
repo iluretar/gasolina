@@ -6,14 +6,35 @@
     "mapa": "https://maps.app.goo.gl/jYUc1Cc4yKdLokw1A",
     "lat": -17.7928321,
     "lon": -63.1940059,
-    "actualizado": "04/09/26 8:44 pm",
+    "actualizado": "05/09/26 1:14 am",
     "productos": {
       "especial_plus": {
-        "litros": 21970,
+        "litros": 18147,
         "cola": "Poca cola",
-        "autonomia": "15h 37m",
-        "vehiculos": 864,
+        "autonomia": "12h 53m",
+        "vehiculos": 714,
         "espera": "1m 5s x"
+      },
+      "premium_plus": null,
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
+    "nombre": "GENEX IV",
+    "direccion": "2do anillo, Av. 26 Santa Cruz esq. Saturnino Saucedo",
+    "mapa": "https://maps.app.goo.gl/KirvSpJkLgaE1zMX6",
+    "lat": -17.7901898,
+    "lon": -63.1649153,
+    "actualizado": "05/09/26 1:14 am",
+    "productos": {
+      "especial_plus": {
+        "litros": 15604,
+        "cola": "Hay cola",
+        "autonomia": "7h 55m",
+        "vehiculos": 649,
+        "espera": "0m 44s x"
       },
       "premium_plus": null,
       "diesel_plus": null,
@@ -27,13 +48,13 @@
     "mapa": "https://maps.app.goo.gl/ou8qw6RotHvoH49S7",
     "lat": -17.7751704,
     "lon": -63.1652754,
-    "actualizado": "04/09/26 8:44 pm",
+    "actualizado": "05/09/26 1:14 am",
     "productos": {
       "especial_plus": {
-        "litros": 14329,
+        "litros": 10050,
         "cola": "Mucha cola",
-        "autonomia": "7h 38m",
-        "vehiculos": 639,
+        "autonomia": "5h 21m",
+        "vehiculos": 448,
         "espera": "0m 43s x"
       },
       "premium_plus": null,
@@ -48,23 +69,38 @@
     "mapa": "https://maps.app.goo.gl/DfYa53RiQo7hHsFc9",
     "lat": -17.8071837,
     "lon": -63.1707663,
-    "actualizado": "04/09/26 8:44 pm",
+    "actualizado": "05/09/26 1:14 am",
     "productos": {
       "especial_plus": {
-        "litros": 11097,
+        "litros": 7516,
         "cola": "Hay cola",
-        "autonomia": "3h 13m",
-        "vehiculos": 504,
+        "autonomia": "2h 10m",
+        "vehiculos": 341,
         "espera": "0m 23s x"
       },
       "premium_plus": null,
-      "diesel_plus": {
-        "litros": 4869,
-        "cola": "Hay cola",
-        "autonomia": "1h 2m",
-        "vehiculos": 7,
-        "espera": "8m 14s x"
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
+    "nombre": "VANGAS",
+    "direccion": "Av. Hernando Sanabria esq 4to anillo",
+    "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
+    "lat": -17.7775673,
+    "lon": -63.2160147,
+    "actualizado": "05/09/26 1:14 am",
+    "productos": {
+      "especial_plus": {
+        "litros": 6644,
+        "cola": "Mucha cola",
+        "autonomia": "4h 58m",
+        "vehiculos": 248,
+        "espera": "1m 12s x"
       },
+      "premium_plus": null,
+      "diesel_plus": null,
       "gas": null
     }
   },
@@ -75,86 +111,23 @@
     "mapa": "https://maps.app.goo.gl/9xKZAfwDwqrQZ56ZA",
     "lat": -17.7772456,
     "lon": -63.1398681,
-    "actualizado": "04/09/26 8:44 pm",
+    "actualizado": "05/09/26 1:14 am",
     "productos": {
       "especial_plus": {
-        "litros": 10043,
+        "litros": 6638,
         "cola": "Mucha cola",
-        "autonomia": "5h 2m",
-        "vehiculos": 567,
+        "autonomia": "3h 20m",
+        "vehiculos": 375,
         "espera": "0m 32s x"
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 9578,
+        "litros": 2482,
         "cola": "Mucha cola",
-        "autonomia": "2h 51m",
-        "vehiculos": 22,
+        "autonomia": "0h 44m",
+        "vehiculos": 5,
         "espera": "7m 43s x"
       },
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
-    "nombre": "GENEX IV",
-    "direccion": "2do anillo, Av. 26 Santa Cruz esq. Saturnino Saucedo",
-    "mapa": "https://maps.app.goo.gl/KirvSpJkLgaE1zMX6",
-    "lat": -17.7901898,
-    "lon": -63.1649153,
-    "actualizado": "04/09/26 8:44 pm",
-    "productos": {
-      "especial_plus": {
-        "litros": 8947,
-        "cola": "Hay cola",
-        "autonomia": "4h 32m",
-        "vehiculos": 372,
-        "espera": "0m 44s x"
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
-    "nombre": "GENEX I",
-    "direccion": "Av. Cristo Redentor esq. 3er anillo externo",
-    "mapa": "https://maps.app.goo.gl/b4iSCGWjt3CcWLzA7",
-    "lat": -17.75771,
-    "lon": -63.1779,
-    "actualizado": "04/09/26 8:44 pm",
-    "productos": {
-      "especial_plus": {
-        "litros": 8796,
-        "cola": "Mucha cola",
-        "autonomia": "3h 0m",
-        "vehiculos": 360,
-        "espera": "0m 30s x"
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
-    "nombre": "GENEX V",
-    "direccion": "2do anillo, esq. Escuadrón Velasco",
-    "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
-    "lat": -17.8013326,
-    "lon": -63.189474,
-    "actualizado": "04/09/26 8:44 pm",
-    "productos": {
-      "especial_plus": {
-        "litros": 7440,
-        "cola": "Hay cola",
-        "autonomia": "4h 6m",
-        "vehiculos": 336,
-        "espera": "0m 44s x"
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
       "gas": null
     }
   },
@@ -165,7 +138,7 @@
     "mapa": "https://maps.app.goo.gl/uRdCwUejFdGQJeT28",
     "lat": -17.7605064,
     "lon": -63.1578325,
-    "actualizado": "04/09/26 8:44 pm",
+    "actualizado": "05/09/26 1:14 am",
     "productos": {
       "especial_plus": {
         "litros": 6185,
@@ -181,20 +154,62 @@
   },
   {
     "empresa": "GENEX",
+    "nombre": "GENEX V",
+    "direccion": "2do anillo, esq. Escuadrón Velasco",
+    "mapa": "https://maps.app.goo.gl/AXhn68eEubDHzry39",
+    "lat": -17.8013326,
+    "lon": -63.189474,
+    "actualizado": "05/09/26 1:14 am",
+    "productos": {
+      "especial_plus": {
+        "litros": 5160,
+        "cola": "Hay cola",
+        "autonomia": "2h 51m",
+        "vehiculos": 233,
+        "espera": "0m 44s x"
+      },
+      "premium_plus": null,
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
+    "nombre": "GENEX I",
+    "direccion": "Av. Cristo Redentor esq. 3er anillo externo",
+    "mapa": "https://maps.app.goo.gl/b4iSCGWjt3CcWLzA7",
+    "lat": -17.75771,
+    "lon": -63.1779,
+    "actualizado": "05/09/26 1:14 am",
+    "productos": {
+      "especial_plus": {
+        "litros": 2431,
+        "cola": "Mucha cola",
+        "autonomia": "0h 49m",
+        "vehiculos": 99,
+        "espera": "0m 30s x"
+      },
+      "premium_plus": null,
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "GENEX",
     "nombre": "ARACATACA",
     "direccion": "Montero - Victor Paz, Zona Norte, Urb. Turín",
     "mapa": "https://maps.app.goo.gl/Hk8YmJpFnqi6A1vf6",
     "lat": -17.3286488,
     "lon": -63.2631651,
-    "actualizado": "04/09/26 8:44 pm",
+    "actualizado": "05/09/26 1:14 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 28513,
+        "litros": 18751,
         "cola": "Mucha cola",
-        "autonomia": "1h 16m",
-        "vehiculos": 58,
+        "autonomia": "0h 50m",
+        "vehiculos": 38,
         "espera": "1m 19s x"
       },
       "gas": null
@@ -207,22 +222,7 @@
     "mapa": "https://maps.app.goo.gl/tedob3DhWvF2CEaw6",
     "lat": -17.3194273,
     "lon": -63.2690567,
-    "actualizado": "04/09/26 8:44 pm",
-    "productos": {
-      "especial_plus": null,
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "GENEX",
-    "nombre": "VANGAS",
-    "direccion": "Av. Hernando Sanabria esq 4to anillo",
-    "mapa": "https://maps.app.goo.gl/2511MNJRWhGBeM5e9",
-    "lat": -17.7775673,
-    "lon": -63.2160147,
-    "actualizado": "04/09/26 8:44 pm",
+    "actualizado": "05/09/26 1:14 am",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
@@ -237,34 +237,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7696144134411,-63.1714895670315",
     "lat": -17.7696144134411,
     "lon": -63.1714895670315,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 7528,
+        "litros": 2743,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 188,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "BENI",
-    "direccion": "AV. BENI, 2DO ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7699636842219,-63.1788997309299",
-    "lat": -17.7699636842219,
-    "lon": -63.1788997309299,
-    "actualizado": "2026-09-04 20:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 3577,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 89,
+        "vehiculos": 69,
         "espera": null
       },
       "premium_plus": null,
@@ -279,13 +258,34 @@
     "mapa": "https://www.google.com/maps?q=-17.8381666852393,-63.2410450833574",
     "lat": -17.8381666852393,
     "lon": -63.2410450833574,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 6604,
+        "litros": 2738,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 165,
+        "vehiculos": 68,
+        "espera": null
+      },
+      "premium_plus": null,
+      "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "BIOPETROL",
+    "nombre": "CABEZAS",
+    "direccion": "CARRETERA A CAMIRI LOCALIDAD CABEZAS - AV. ELOY ALPIRE",
+    "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
+    "lat": -18.7879016169379,
+    "lon": -63.3144605479864,
+    "actualizado": "2026-09-05 01:16",
+    "productos": {
+      "especial_plus": {
+        "litros": 19800,
+        "cola": null,
+        "autonomia": null,
+        "vehiculos": 495,
         "espera": null
       },
       "premium_plus": null,
@@ -300,21 +300,21 @@
     "mapa": "https://www.google.com/maps?q=-20.021236674057743,-63.531306466384734",
     "lat": -20.021236674057743,
     "lon": -63.531306466384734,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 10500,
+        "litros": 9700,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 263,
+        "vehiculos": 243,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 6600,
+        "litros": 7400,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 26,
+        "vehiculos": 30,
         "espera": null
       },
       "gas": null
@@ -327,13 +327,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7826273983221,-63.1640577245945",
     "lat": -17.7826273983221,
     "lon": -63.1640577245945,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 14036,
+        "litros": 11318,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 351,
+        "vehiculos": 283,
         "espera": null
       },
       "premium_plus": null,
@@ -348,13 +348,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7549241451465,-63.1969690835236",
     "lat": -17.7549241451465,
     "lon": -63.1969690835236,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 12724,
+        "litros": 5369,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 318,
+        "vehiculos": 134,
         "espera": null
       },
       "premium_plus": null,
@@ -369,13 +369,13 @@
     "mapa": "https://www.google.com/maps?q=-17.762061428816,-63.1801367070617",
     "lat": -17.762061428816,
     "lon": -63.1801367070617,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 8343,
+        "litros": 3249,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 209,
+        "vehiculos": 81,
         "espera": null
       },
       "premium_plus": null,
@@ -390,13 +390,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7656804630669,-63.0709286743783",
     "lat": -17.7656804630669,
     "lon": -63.0709286743783,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 12668,
+        "litros": 8912,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 317,
+        "vehiculos": 223,
         "espera": null
       },
       "premium_plus": null,
@@ -411,13 +411,13 @@
     "mapa": "",
     "lat": null,
     "lon": null,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 22210,
+        "litros": 19882,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 555,
+        "vehiculos": 497,
         "espera": null
       },
       "premium_plus": null,
@@ -432,17 +432,44 @@
     "mapa": "https://www.google.com/maps?q=-17.7669638761581,-63.1109054559461",
     "lat": -17.7669638761581,
     "lon": -63.1109054559461,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 9331,
+        "litros": 5232,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 233,
+        "vehiculos": 131,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": null,
+      "gas": null
+    }
+  },
+  {
+    "empresa": "BIOPETROL",
+    "nombre": "MONTEVERDE",
+    "direccion": "LOCALIDAD MONTERO, AV. CIRCUNVALACIÓN",
+    "mapa": "https://www.google.com/maps?q=-17.3426156041482,-63.2696942367217",
+    "lat": -17.3426156041482,
+    "lon": -63.2696942367217,
+    "actualizado": "2026-09-05 01:16",
+    "productos": {
+      "especial_plus": {
+        "litros": 19800,
+        "cola": null,
+        "autonomia": null,
+        "vehiculos": 495,
+        "espera": null
+      },
+      "premium_plus": null,
+      "diesel_plus": {
+        "litros": 14815,
+        "cola": null,
+        "autonomia": null,
+        "vehiculos": 59,
+        "espera": null
+      },
       "gas": null
     }
   },
@@ -453,13 +480,13 @@
     "mapa": "https://www.google.com/maps?q=-17.7646159071105,-63.1506306544585",
     "lat": -17.7646159071105,
     "lon": -63.1506306544585,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 9249,
+        "litros": 5248,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 231,
+        "vehiculos": 131,
         "espera": null
       },
       "premium_plus": null,
@@ -474,44 +501,23 @@
     "mapa": "https://www.google.com/maps?q=-20.0229538504344,-63.5328353084896",
     "lat": -20.0229538504344,
     "lon": -63.5328353084896,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 19842,
+        "litros": 19303,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 496,
+        "vehiculos": 483,
         "espera": null
       },
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 4653,
+        "litros": 3773,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 19,
+        "vehiculos": 15,
         "espera": null
       },
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "PIRAI",
-    "direccion": "AV. ROCA Y CORONADO 3ER ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7861644188831,-63.2048426862802",
-    "lat": -17.7861644188831,
-    "lon": -63.2048426862802,
-    "actualizado": "2026-09-04 20:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 5553,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 139,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": null,
       "gas": null
     }
   },
@@ -522,13 +528,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8068386560544,-63.1980972093344",
     "lat": -17.8068386560544,
     "lon": -63.1980972093344,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 14458,
+        "litros": 11731,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 361,
+        "vehiculos": 293,
         "espera": null
       },
       "premium_plus": null,
@@ -543,13 +549,13 @@
     "mapa": "https://www.google.com/maps?q=-17.8010365397699,-63.1812076934576",
     "lat": -17.8010365397699,
     "lon": -63.1812076934576,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": {
-        "litros": 17060,
+        "litros": 10906,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 427,
+        "vehiculos": 273,
         "espera": null
       },
       "premium_plus": null,
@@ -564,63 +570,15 @@
     "mapa": "https://www.google.com/maps?q=-17.676109764678,-63.1591603277599",
     "lat": -17.676109764678,
     "lon": -63.1591603277599,
-    "actualizado": "2026-09-04 20:46",
-    "productos": {
-      "especial_plus": {
-        "litros": 2613,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 65,
-        "espera": null
-      },
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 32881,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 132,
-        "espera": null
-      },
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "CABEZAS",
-    "direccion": "CARRETERA A CAMIRI LOCALIDAD CABEZAS - AV. ELOY ALPIRE",
-    "mapa": "https://www.google.com/maps?q=-18.7879016169379,-63.3144605479864",
-    "lat": -18.7879016169379,
-    "lon": -63.3144605479864,
-    "actualizado": "2026-09-04 20:46",
+    "actualizado": "2026-09-05 01:16",
     "productos": {
       "especial_plus": null,
       "premium_plus": null,
       "diesel_plus": {
-        "litros": 6203,
+        "litros": 21158,
         "cola": null,
         "autonomia": null,
-        "vehiculos": 25,
-        "espera": null
-      },
-      "gas": null
-    }
-  },
-  {
-    "empresa": "BIOPETROL",
-    "nombre": "LOPEZ",
-    "direccion": "AV. BANZER, 7MO ANILLO",
-    "mapa": "https://www.google.com/maps?q=-17.7264348750435,-63.1658548617288",
-    "lat": -17.7264348750435,
-    "lon": -63.1658548617288,
-    "actualizado": "2026-09-04 20:46",
-    "productos": {
-      "especial_plus": null,
-      "premium_plus": null,
-      "diesel_plus": {
-        "litros": 13073,
-        "cola": null,
-        "autonomia": null,
-        "vehiculos": 52,
+        "vehiculos": 85,
         "espera": null
       },
       "gas": null
